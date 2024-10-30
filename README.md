@@ -9,9 +9,9 @@ To present the findings effectively, three dashboards were created in Tableau fo
 
 - A sales dashboard displaying actual sales performance during the available data period.
 - A comparative dashboard analyzing prescribed products (sales potential) versus actual sales, categorized by product type.
-- An inventory management dashboard to optimize purchasing planning and recommend products based on historical data of sales and prescribed medications.
+- An inventory management dashboard to optimize purchasing planning and recommend products based on historical data of sales and prescribed medications. Example:
+  
 
-Example of a Dashboard:
 ![image](https://github.com/user-attachments/assets/c715f1e4-d006-4157-a74e-2fed839b9557)
 
 The business operates in two key areas: veterinary services ("En Casa") and medication sales ("Tu Fórmula en Casa"). Data for veterinary services were provided in six raw Excel datasets from the OKVET software, covering appointments, consultations, deworming, lab tests, prescriptions, vaccinations, and surgeries. For the emerging medication sales arm, data were manually compiled into an Excel file containing product details, purchases, sales, inventory, and more. Given the non-standardized nature of the datasets, extensive cleaning and preparation were required to enable a meaningful analysis.
@@ -22,6 +22,6 @@ In addition to the data analysis, the project includes recommendations for enhan
 
 
 
-Kanbas link: https://trello.com/b/V0x4PEoQ/okvet
+Kanbas link: https://trello.com/invite/b/66b0cba717781fbf8f952d12/ATTI13a44f280ae65a3de1e1c8cd0420ca8687AEDD5C/okvet
 
 Presentation link: https://docs.google.com/presentation/d/1lrrZb-st35vPLEbDhQkfnpTfI0tiaTd9ytM6RlQ_X4s/edit?usp=sharing

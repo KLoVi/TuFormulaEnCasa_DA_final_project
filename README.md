@@ -1,19 +1,24 @@
 # TuFórmulaEnCasa_final_project
 
-This project undertakes the exploration of previously unused data from a small veterinary business in Colombia, collected through a dedicated software for veterinary services (https://okvet.co/#).
+This project focuses on leveraging previously untapped data from a small veterinary business in Colombia, collected via specialized veterinary software (https://okvet.co/#).
 
-The primary objective of this project is to analyze data of prescribed medications from the past year to forecast inventory needs for the forthcoming year, predicated on the assumption of consistent trends. Additionally, it aims to assess medication purchase patterns by clients over the last five months —the extent of available data—to identify potential areas for sales growth.
+**The primary objective of this project is to analyze prescription medication data from the past year to forecast inventory needs for the coming year, assuming consistent trends. Additionally, the project aims to evaluate client purchasing behaviors over the last five months to identify potential opportunities for sales growth optimization.
+**
 
-To synthesise the results, three dashboards will be developed for "Tu Fórmula en Casa": 
-1. A sales dashboard showing the actual results in terms of sales for the period of available data.
-2. A comparative dashboard between the prescribed products (the sales potential) and the actual sales, by type of product sold.
-3. An inventory management dashboard, designed to streamline purchasing planning and recommend products based on historical data of sales and prescribed medicines.
+To present the findings effectively, three dashboards were created in Tableau for "Tu Fórmula en Casa":
 
-The business operates in two main areas: veterinary services (referred to as "En Casa") and the sale of medications (termed "Tu Fórmula en Casa"). For veterinary services, data were provided in six raw Excel datasets from the OKVET software, encapsulating varied information on appointments, consultations, deworming, laboratory tests, medical prescriptions, vaccinations, and surgeries. Conversely, the nascent arm of the business—medication sales to clients is in its development phase, with data manually compiled into a raw Excel file detailing product information, purchases, sales, inventory, and more. The data across these domains were found to be non-standardized, necessitating significant cleaning and wrangling for comprehensive analysis.
+- A sales dashboard displaying actual sales performance during the available data period.
+- A comparative dashboard analyzing prescribed products (sales potential) versus actual sales, categorized by product type.
+- An inventory management dashboard to optimize purchasing planning and recommend products based on historical data of sales and prescribed medications.
 
-Beyond the data analysis, the project includes recommendations for improving data storage practices and identifying opportunities to enhance business growth.
-
+Example of a Dashboard:
 ![image](https://github.com/user-attachments/assets/c715f1e4-d006-4157-a74e-2fed839b9557)
+
+The business operates in two key areas: veterinary services ("En Casa") and medication sales ("Tu Fórmula en Casa"). Data for veterinary services were provided in six raw Excel datasets from the OKVET software, covering appointments, consultations, deworming, lab tests, prescriptions, vaccinations, and surgeries. For the emerging medication sales arm, data were manually compiled into an Excel file containing product details, purchases, sales, inventory, and more. Given the non-standardized nature of the datasets, extensive cleaning and preparation were required to enable a meaningful analysis.
+
+In addition to the data analysis, the project includes recommendations for enhancing data storage practices and identifying opportunities for business growth.
+
+
 
 
 

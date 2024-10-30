@@ -2,8 +2,7 @@
 
 This project focuses on leveraging previously untapped data from a small veterinary business in Colombia, collected via specialized veterinary software (https://okvet.co/#).
 
-**The primary objective of this project is to analyze prescription medication data from the past year to forecast inventory needs for the coming year, assuming consistent trends. Additionally, the project aims to evaluate client purchasing behaviors over the last five months to identify potential opportunities for sales growth optimization.
-**
+**The primary objective of this project is to analyze prescription medication data from the past year to forecast inventory needs for the coming year, assuming consistent trends. Additionally, the project aims to evaluate client purchasing behaviors over the last five months to identify potential opportunities for sales growth optimization.**
 
 To present the findings effectively, three dashboards were created in Tableau for "Tu Fórmula en Casa":
 
@@ -16,7 +15,7 @@ To present the findings effectively, three dashboards were created in Tableau fo
 
 The business operates in two key areas: veterinary services ("En Casa") and medication sales ("Tu Fórmula en Casa"). Data for veterinary services were provided in six raw Excel datasets from the OKVET software, covering appointments, consultations, deworming, lab tests, prescriptions, vaccinations, and surgeries. For the emerging medication sales arm, data were manually compiled into an Excel file containing product details, purchases, sales, inventory, and more. Given the non-standardized nature of the datasets, extensive cleaning and preparation were required to enable a meaningful analysis.
 
-In addition to the data analysis, the project includes recommendations for enhancing data storage practices and identifying opportunities for business growth.
+**In addition to the data analysis, the project includes recommendations for enhancing data storage practices and identifying opportunities for business growth.**
 
 
 

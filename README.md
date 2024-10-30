@@ -1,4 +1,4 @@
-# TuFórmulaEnCasa_final_project
+# Veterinary Company Inventory Forecasting
 
 This project focuses on leveraging previously untapped data from a small veterinary business in Colombia, collected via specialized veterinary software (https://okvet.co/#).
 

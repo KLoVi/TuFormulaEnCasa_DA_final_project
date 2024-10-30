@@ -1,4 +1,4 @@
-# TuFórmulaEnCasa_DA_final_project
+# TuFórmulaEnCasa_final_project
 
 This project undertakes the exploration of previously unused data from a small veterinary business in Colombia, collected through a dedicated software for veterinary services (https://okvet.co/#).
 
